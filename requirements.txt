@@ -1,1 +1,7 @@
 ipykernel
+opencv-python
+h5py
+pandas
+matplotlib
+gzip
+numpy
